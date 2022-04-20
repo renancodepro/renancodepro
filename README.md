@@ -1,4 +1,4 @@
-## Oi eu sou o Renan, estudante de programação!
+## Oi eu sou o Renan, buscando aprender programação e marketing!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
