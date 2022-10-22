@@ -2,7 +2,8 @@
   <a href="https://github.com/renancodepro"><img align="center" alt="renan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><a/>
   <a href="https://github.com/renancodepro"><img align="center" alt="renan-HTML" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><a/>
   <a href="https://github.com/renancodepro"><img align="center" alt="Renan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><a/>
-  
+    <a href="https://github.com/renancodepro"> <img align="center" alt="Renan-Js" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
 </div>  
   
   ##
